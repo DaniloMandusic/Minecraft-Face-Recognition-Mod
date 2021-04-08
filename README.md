@@ -12,7 +12,7 @@ Face recognition module for minecraft
 
 3.Put face pictures in project folder<br />
 
-4.Run Minecraft Louncher<br />
+4.Run Minecraft Launcher<br />
 
 5.In main.py change hwnd to your minectaft window name<br />
 
